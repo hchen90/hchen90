@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JNI函数调用之线程安全问题](https://hchen90.github.io/2021/11/29/jnithreadsafe/)
 - [分布式服务系统概述](https://hchen90.github.io/2020/12/20/redistributedservicesystem/)
 - [利用Linux的coredump机制快速定位程序BUG](https://hchen90.github.io/2019/11/12/linuxcoredumptofindbug/)
 - [如何在 Linux 系统启用 UEFI 的 Secure Boot](https://hchen90.github.io/2017/09/02/enablesbonlinux/)
 - [如何将处于虚拟机中的MINIX系统中的文件复制到实体机的LINUX系统中来](https://hchen90.github.io/2016/10/03/minix/)
-- [Linux环境搭建中文LaTeX排版系统](https://hchen90.github.io/2016/05/03/linuxlatex/)
 <!-- BLOG-POST-LIST:END -->
