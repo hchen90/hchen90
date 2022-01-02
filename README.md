@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [JNI函数调用之线程安全问题](https://hchen90.github.io/2021/11/29/jnithreadsafe/)
 - [分布式服务系统概述](https://hchen90.github.io/2020/12/20/redistributedservicesystem/)
+- [GitHub的OAuth App的使用](https://hchen90.github.io/2020/04/15/githuboauthappintro/)
 - [利用Linux的coredump机制快速定位程序BUG](https://hchen90.github.io/2019/11/12/linuxcoredumptofindbug/)
-- [计算机系统启动流程](https://hchen90.github.io/2018/06/16/systemstartup/)
-- [LZSS压缩算法](https://hchen90.github.io/2018/04/01/lzsscompalgo/)
+- [Linux系统启动流程](https://hchen90.github.io/2018/06/24/linuxstartup/)
 <!-- BLOG-POST-LIST:END -->
