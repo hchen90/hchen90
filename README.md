@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hsiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hchen90&hide=contribs,prs)
+![Hsiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hchen90)
 
 ![Hsiang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hchen90)
 
