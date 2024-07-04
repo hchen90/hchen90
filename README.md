@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [人工智能笔记 - 机器学习](https://hchen90.github.io/2024/07/02/ai2-studylog-ml/)
 - [人工智能笔记 - 数据分析和决策](https://hchen90.github.io/2024/06/12/ai1-studylog-dataanalysis/)
 - [OpenAI之OpenAPI初探](https://hchen90.github.io/2023/03/28/openaiapirsh/)
 - [玩转自搭建 GitLab 社区版](https://hchen90.github.io/2022/07/02/deploygitlabcerunner/)
 - [程序的代码修改问题](https://hchen90.github.io/2022/06/11/codemodification/)
-- [MongoDB Cloud云平台简单使用简介](https://hchen90.github.io/2022/04/03/mongodbcloudcluster/)
 <!-- BLOG-POST-LIST:END -->
