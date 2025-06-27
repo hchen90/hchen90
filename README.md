@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ![Hsiang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hchen90)
 
+![Hsiang's Trophy](https://github-profile-trophy.vercel.app/?username=hchen90)
+
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
