@@ -1,21 +1,30 @@
-### Hi there 👋
+## 👋 Hi there, I'm Hsiang (hchen90)
 
-<!--
-**hchen90/hchen90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate developer with a strong interest in distributed systems, cloud-native architecture, and backend engineering.  
+🛠️ I love building reliable, high-performance systems using Go, Rust, and modern messaging technologies like RocketMQ and Kafka.  
+🔍 I'm currently exploring topics like TLS/SSL analysis, observability (Prometheus, Jaeger), and automation with LangChain & LangGraph.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
+- Building high-concurrency systems with Go and RocketMQ
+- Designing secure certificate automation pipelines using ACME and Rust
+- Diving into AI-assisted software engineering with LangSmith & OpenAI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Technologies I work with
+- **Languages:** Go, C++, Python, Java
+- **Backend:** gRPC, RESTful APIs, Redis, etcd
+- **DevOps & Infra:** Docker, Kubernetes, Prometheus, Grafana
+- **Cloud & Tools:** GitHub Actions, Cloudflare APIs
 
-<!-- ![Hsiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hchen90) -->
+### 📫 Let's connect!
+- GitHub: [hchen90](https://github.com/hchen90)
+
+---
+
+Thanks for stopping by! 🚧 More cool projects coming soon...
+
+### GitHub stats
+
+![Hsiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hchen90)
 
 ![Hsiang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hchen90)
 
