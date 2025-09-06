@@ -33,9 +33,9 @@ Thanks for stopping by! 🚧 More cool projects coming soon...
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM应用中的Function Calling机制](https://hchen90.top/post/llmappfunctioncallingmech)
+- [机器学习中模型训练的拟合问题](https://hchen90.top/post/mltraningfittingissues)
 - [人工智能笔记 - 机器学习](https://hchen90.top/post/ai2-studylog-ml)
 - [人工智能笔记 - 数据分析和决策](https://hchen90.top/post/ai1-studylog-dataanalysis)
-- [OpenAI之OpenAPI初探](https://hchen90.top/post/openaiapirsh)
-- [玩转自搭建 GitLab 社区版](https://hchen90.top/post/deploygitlabcerunner)
-- [程序的代码修改问题](https://hchen90.top/post/codemodification)
+- [高级语言内存管理那些事：C++、Go 与 Rust 的对决](https://hchen90.top/post/advlangmemmanagement)
 <!-- BLOG-POST-LIST:END -->
