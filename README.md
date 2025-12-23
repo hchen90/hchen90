@@ -2,7 +2,7 @@
 
 🎯 A passionate developer with a strong interest in distributed systems, cloud-native architecture, and backend engineering.  
 🛠️ I love building reliable, high-performance systems using Go, Rust, and modern messaging technologies like RocketMQ and Kafka.  
-🔍 I'm currently exploring topics like TLS/SSL analysis, observability (Prometheus, Jaeger), and automation with LangChain & LangGraph.
+🔍 I am actively working on MLOps and Machine Learning, with a strong focus on AI systems, Large Language Models (LLMs), and frameworks such as LangChain and LangGraph.
 
 ### 🚀 What I'm working on
 - Building high-concurrency systems with Go and RocketMQ
