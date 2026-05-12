@@ -24,11 +24,7 @@ Thanks for stopping by! 🚧 More cool projects coming soon...
 
 ### GitHub stats
 
-![Hsiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hchen90)
-
-![Hsiang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hchen90)
-
-![Hsiang's Trophy](https://github-profile-trophy.vercel.app/?username=hchen90)
+![Hsiang's GitHub metrics](./github-metrics.svg)
 
 ### Latest Blog Posts
 
