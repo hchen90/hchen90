@@ -26,6 +26,10 @@ Thanks for stopping by! 🚧 More cool projects coming soon...
 
 ![Hsiang's GitHub metrics](./github-metrics.svg)
 
+### 🏆 Achievements
+
+![Hsiang's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hchen90&theme=flat&no-frame=true&margin-w=8)
+
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
