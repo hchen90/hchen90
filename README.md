@@ -26,14 +26,6 @@ Thanks for stopping by! 🚧 More cool projects coming soon...
 
 ![Hsiang's GitHub metrics](./github-metrics.svg)
 
-### 🏆 Achievements
-
-![Hsiang's GitHub Achievements](./github-achievements.svg)
-
-### 📊 Languages
-
-![Hsiang's GitHub Languages](./github-languages.svg)
-
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
