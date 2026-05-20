@@ -19,7 +19,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           plugin_languages: yes
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no
           plugin_languages_limit: 8
           filename: github-metrics.svg
           committer_token: ${{ secrets.GITHUB_TOKEN }}
