@@ -47,9 +47,9 @@ Thanks for stopping by! 🚧 More cool projects coming soon...
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [使用 LangChain 构建智能体实战](https://hchen90.top/post/introtolangchainapp)
-- [聊聊高并发高可用云服务设计（Go语言版）](https://hchen90.top/post/highconcuravabackendingo)
-- [使用 PyTorch 进行线性回归模型训练实战](https://hchen90.top/post/introtopytorchlinearregr)
-- [LLM应用中的Function Calling机制](https://hchen90.top/post/llmappfunctioncallingmech)
-- [机器学习中模型训练的拟合问题](https://hchen90.top/post/mltraningfittingissues)
+- [智能体如何用 E2B Code Interpreter 隔离执行不安全代码](https://hchen90.github.io/post/agente2bcodeinterp)
+- [使用 LangChain 构建智能体实战](https://hchen90.github.io/post/introtolangchainapp)
+- [聊聊高并发高可用云服务设计（Go语言版）](https://hchen90.github.io/post/highconcuravabackendingo)
+- [PKI 体系结构与证书信任链](https://hchen90.github.io/post/pkitrustarch)
+- [常规加解密、摘要与门限算法的种类与应用](https://hchen90.github.io/post/cryptoandhashintro)
 <!-- BLOG-POST-LIST:END -->
