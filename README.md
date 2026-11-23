@@ -47,9 +47,9 @@ Thanks for stopping by! 🚧 More cool projects coming soon...
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [智能体 Harness：把 AI Agent 接入工程工作流](https://hchen90.github.io/post/aiagentharness)
-- [Langfuse：LLM 应用的可观测性平台](https://hchen90.github.io/post/langfuseintro)
-- [智能体如何用 E2B Code Interpreter 隔离执行不安全代码](https://hchen90.github.io/post/agente2bcodeinterp)
-- [使用 LangChain 构建智能体实战](https://hchen90.github.io/post/introtolangchainapp)
-- [聊聊高并发高可用云服务设计（Go语言版）](https://hchen90.github.io/post/highconcuravabackendingo)
+- [智能体 Harness：把 AI Agent 接入工程工作流](https://hchen90.github.io/post/zh/aiagentharness/)
+- [Langfuse：LLM 应用的可观测性平台](https://hchen90.github.io/post/zh/langfuseintro/)
+- [智能体如何用 E2B Code Interpreter 隔离执行不安全代码](https://hchen90.github.io/post/zh/agente2bcodeinterp/)
+- [使用 LangChain 构建智能体实战](https://hchen90.github.io/post/zh/introtolangchainapp/)
+- [聊聊高并发高可用云服务设计（Go语言版）](https://hchen90.github.io/post/zh/highconcuravabackendingo/)
 <!-- BLOG-POST-LIST:END -->
